@@ -2,6 +2,13 @@
 Printable forms you can use to prepare or extend printed documents from Deals.
 ## Getting Started
 These instructions will walk you through installing the pages and customizing them to meet your needs.
+
+### Deploy using Heroku
+<a href="https://githubsfdeploy.herokuapp.com?owner=dealerTeam&repo=https://github.com/DealerTeam/Example-Deal-Forms&ref=Master">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
+
 ### Installing Pages
 1. Open the Developer Console under the settings gear
 
