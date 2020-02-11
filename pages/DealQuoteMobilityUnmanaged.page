@@ -1,4 +1,4 @@
-<apex:page renderAs="pdf" applyHtmlTag="false" showHeader="false" showChat="false" standardStylesheets="false" standardController="Deal__c" extensions="DealPrintController">
+<apex:page renderAs="pdf" applyHtmlTag="false" showHeader="false" showChat="false" standardStylesheets="false" standardController="Deal__c" extensions="dealer.DealPrintController">
     <html xmlns="http://www.w3.org/1999/xhtml">
         <head>
             <style>
